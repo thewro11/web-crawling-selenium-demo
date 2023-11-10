@@ -1,0 +1,2 @@
+BROWSER_BINARY_LOCATION: str = ""
+BROWSER_DRIVER: str = ""
